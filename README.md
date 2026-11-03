@@ -11,8 +11,6 @@ The analysis is based on customer shopping transaction data containing 3,900 rec
 
 The main objective is to transform raw shopping data into meaningful insights that can help businesses understand their customers and make better data-driven decisions.
 
-
-
 ## Project Objectives
 
 - Analyze customer purchasing behavior.
