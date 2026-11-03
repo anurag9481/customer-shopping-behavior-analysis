@@ -128,6 +128,10 @@ Examples of business questions:
 10. Which customers have made the most previous purchases?
 
 ### 5. Power BI Dashboard
+<p align="center">
+  <img src="power bi dashboard.jpeg" width="800">
+</p>
+
 
 Created a dashboard to present key business insights visually.
 
