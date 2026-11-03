@@ -107,6 +107,10 @@ Key areas explored:
 - Payment method preferences.
 
 ### 4. SQL Analysis
+<p align="center">
+  <img src="sql query.jpeg" width="800">
+</p>
+
 
 Used SQL to answer business-related questions and extract meaningful insights.
 
