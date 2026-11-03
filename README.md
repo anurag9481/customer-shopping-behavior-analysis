@@ -71,6 +71,10 @@ The dataset contains customer shopping transaction information.
 ## Project Workflow
 
 ### 1. Data Loading
+<p align="center">
+  <img src="import data.jpeg" width="800">
+</p>
+
 
 - Imported the dataset using Pandas.
 - Examined the dataset structure.
