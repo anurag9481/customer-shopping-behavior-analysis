@@ -7,7 +7,11 @@ This project focuses on analyzing customer shopping behavior to identify purchas
 The analysis is based on customer shopping transaction data containing 3,900 records and 18 columns. It explores customer demographics, product categories, purchase amounts, discounts, subscriptions, shipping preferences, and customer reviews.
 
 The main objective is to transform raw shopping data into meaningful insights that can help businesses understand their customers and make better data-driven decisions.
+## Project Thumbnail
 
+<p align="center">
+  <img src="data analysis thumbnail.jpeg" width="800">
+</p>
 ## Project Objectives
 
 - Analyze customer purchasing behavior.
